@@ -23,7 +23,7 @@ namespace WebApplication2.Controllers
         // GET: Projects/Details/5
         public ActionResult Details(int? id)
         {
-            int x = 1;
+            int x = 2;
 
             if (id == null)
             {
