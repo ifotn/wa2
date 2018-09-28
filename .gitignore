@@ -299,8 +299,8 @@ ServiceFabricBackup/
 >>>>>>> 67c6e22aa17d3ffc642edc511a48573623bdb02b
 
 # SQL Server files
-*.mdf
-*.ldf
+#*.mdf
+#*.ldf
 <<<<<<< HEAD
 =======
 *.ndf
